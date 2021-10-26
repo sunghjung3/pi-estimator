@@ -4,7 +4,6 @@
 using namespace std;
 
 int main() {
-
         int attempts=1000000;
         int tries=0;
         int inside=0;
