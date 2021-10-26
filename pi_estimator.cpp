@@ -3,6 +3,8 @@
 #include <time.h>
 using namespace std;
 
+// this is a just a test (remote)
+
 int main() {
         int attempts=1000000;
         int tries=0;
